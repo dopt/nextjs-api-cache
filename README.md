@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Cache Management Example for Next JS API
+
+- Approach: [memory-cache](https://www.npmjs.com/package/memory-cache)
+
 ## Getting Started
 
 First, run the development server:
